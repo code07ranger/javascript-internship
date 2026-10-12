@@ -1,7 +1,7 @@
 🚀 JavaScript Web Development Internship
 
 📖 About the Internship
-I completed a virtual JavaScript Web Development Internship at EWB Edutech, selected through the AICTE National Internship Portal. 
+I completed a  JavaScript Web Development Internship at EWB Edutech, selected through the AICTE National Internship Portal. 
 The program included mentor-led sessions, weekly assessments, assigned tasks, and a final mini project, helping me move from JavaScript basics to building real, working web pages.
 
 🛠️ Technologies & Skills Learned
